@@ -1,0 +1,11 @@
+D:\Zishan\Zip Net Core\bin\Debug\netcoreapp2.1\Zip Net Core.deps.json
+D:\Zishan\Zip Net Core\bin\Debug\netcoreapp2.1\Zip Net Core.runtimeconfig.json
+D:\Zishan\Zip Net Core\bin\Debug\netcoreapp2.1\Zip Net Core.runtimeconfig.dev.json
+d:\Zishan\Zip Net Core\bin\Debug\netcoreapp2.1\Zip Net Core.dll
+d:\Zishan\Zip Net Core\bin\Debug\netcoreapp2.1\Zip Net Core.pdb
+d:\Zishan\Zip Net Core\obj\Debug\netcoreapp2.1\Zip Net Core.csprojAssemblyReference.cache
+d:\Zishan\Zip Net Core\obj\Debug\netcoreapp2.1\Zip Net Core.csproj.CoreCompileInputs.cache
+d:\Zishan\Zip Net Core\obj\Debug\netcoreapp2.1\Zip Net Core.AssemblyInfoInputs.cache
+d:\Zishan\Zip Net Core\obj\Debug\netcoreapp2.1\Zip Net Core.AssemblyInfo.cs
+d:\Zishan\Zip Net Core\obj\Debug\netcoreapp2.1\Zip Net Core.dll
+d:\Zishan\Zip Net Core\obj\Debug\netcoreapp2.1\Zip Net Core.pdb
